@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+
+int a;
+float b;
+
+int main()
+{
+	int c, d, e;
+	float f, g, h;
+	c = d + e;
+}
